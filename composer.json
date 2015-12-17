@@ -39,9 +39,6 @@
     "require-dev": {
         "composer/composer": "^1.0@dev"
     },
-    "config": {
-        "bin-dir": "vendor/bin/"
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "2.x-dev"
