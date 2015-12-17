@@ -40,7 +40,7 @@
         "composer/composer": "^1.0@dev"
     },
     "config": {
-        "bin-dir": "bin/"
+        "bin-dir": "vendor/bin/"
     },
     "extra": {
         "branch-alias": {
